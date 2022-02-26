@@ -1,4 +1,4 @@
-https://github.com/TheHeartFickle/The-graduation-of-Mitchell-in-lab.git
+https://github.com/TheHeartFickle/myyolo.git
 
 1:使用git clone从github上克隆项目后正在ubuntu下配置Makefile文档后即可make编译
 
