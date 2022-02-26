@@ -1,0 +1,6 @@
+classes= 1
+train  = /home/the_heart_fickle/darknet/myData/myData_train.txt
+valid  = /home/pjreddie/data/voc/2007_test.txt
+names = /home/the_heart_fickle/darknet/myData/myData.names
+backup = /home/the_heart_fickle/darknet/backup
+

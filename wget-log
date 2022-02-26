@@ -1,0 +1,8 @@
+--2022-02-24 14:23:32--  https://pjreddie.com/media/files/darknet53.conv.74
+Resolving pjreddie.com (pjreddie.com)... 128.208.4.108
+Connecting to pjreddie.com (pjreddie.com)|128.208.4.108|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 162482580 (155M) [application/octet-stream]
+Saving to: ‘darknet53.conv.74’
+
+darknet53.conv.74     2%[                    ]   3.85M  14.3KB/s    eta 2h 15m darknet53.conv.74     2%[                    ]   3.88M  15.3KB/s    eta 2h 15m darknet53.conv.74     2%[                    ]   3.90M  15.4KB/s    eta 2h 14m darknet53.conv.74     2%[                    ]   3.91M  16.1KB/s    eta 2h 14m darknet53.conv.74     2%[                    ]   3.93M  16.2KB/s    eta 2h 15m darknet53.conv.74     2%[                    ]   3.94M  16.0KB/s    eta 2h 15m darknet53.conv.74     2%[                    ]   3.96M  16.1KB/s    eta 2h 15m darknet53.conv.74     2%[                    ]   3.98M  16.6KB/s    eta 2h 15m 
